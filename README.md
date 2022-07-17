@@ -1,4 +1,4 @@
-# Ternary
+# Trinary
 ============
 
 This little project, is just a way for me to train myself at bases manipulation and basics base conversion algorithms.
